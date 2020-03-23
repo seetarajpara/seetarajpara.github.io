@@ -1,11 +1,11 @@
 # Site settings
 author: Seeta Rajpara
-title: 
+title: Seeta's Data Science Journey
 header-img: img/home-bg.png
 email: seeta_rajpara@alumni.brown.edu
 copyright_name: Seeta Rajpara
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tidbits on my Progress Through the Data Science Online Program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  seetarajpara
